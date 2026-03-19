@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:apidocs.unifilabs.com)",
+      "WebSearch",
+      "WebFetch(domain:www.postman.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:unifilabs.com)",
+      "WebFetch(domain:web.archive.org)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}
