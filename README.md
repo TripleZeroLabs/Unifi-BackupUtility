@@ -1,4 +1,4 @@
-# Unifi Downloader
+# Unifi Backup Utility
 
 A set of Python scripts for exporting and bulk-downloading content from a [Unifi](https://www.unifilabs.com/) library using the Unifi API.
 
